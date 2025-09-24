@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg1ODUxMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "map-route-1",
+      "description": "Map showing a route from Hostel A to B",
+      "imageUrl": "https://images.unsplash.com/photo-1694580511884-7de02841ac2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYXAlMjByb3V0ZXxlbnwwfHx8fDE3NTg1OTAzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map route"
+    },
+    {
+      "id": "driver-avatar-1",
+      "description": "Driver avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1716828860225-45cad11f22de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBkcml2aW5nfGVufDB8fHx8MTc1ODYzMjUzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person driving"
+    }
+  ]
 }
