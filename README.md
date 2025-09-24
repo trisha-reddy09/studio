@@ -1,4 +1,4 @@
-# WAYN: We Are Your Neighbours
+# WAYN: Where are you now
 
 This is a community-based carpooling application built with Next.js, React, Tailwind CSS, and Genkit for AI-powered features.
 
